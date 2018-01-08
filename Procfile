@@ -1,1 +1,1 @@
-web: gunicorn register-prog:app
+web: Python register-prog.py
